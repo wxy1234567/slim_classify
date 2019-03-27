@@ -1,4 +1,3 @@
-# python3_tf_slim_image_classify
 Python3使用TF-Slim进行图像分类
 
 # 机器环境
